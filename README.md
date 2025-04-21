@@ -7,3 +7,5 @@
 1) Волкова Ольга (OlgaVolkova03)
 2) Гамова Екатерина (Katen1)
 3) Соловьёва Ирина (IrinaSolovyeva03)
+
+[Чек-лист для добавления товара в корзину на Lamoda](Shopping_Cart.md)
